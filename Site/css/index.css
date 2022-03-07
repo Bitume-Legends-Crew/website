@@ -1,8 +1,6 @@
-.homebodyindex{
-    background-image: url(../Photo/BTMS.jpg);
+.homebodyindex {
+    background-image: url(../medias/BTMS.jpg);
     background-size: cover;
-    background-position: center ; 
+    background-position: center;
     height: 100vh;
 }
-
-

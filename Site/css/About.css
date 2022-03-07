@@ -1,8 +1,6 @@
-.homebodyabout{
-    background-image: url(../Photo/Background_Full_Bluepng.png);
+.homebodyabout {
+    background-image: url(../medias/Background_Full_Bluepng.png);
     background-size: cover;
-    background-position: center ; 
+    background-position: center;
     height: 100vh;
 }
-
-

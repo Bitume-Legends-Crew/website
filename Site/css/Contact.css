@@ -1,8 +1,6 @@
-.homebodycontact{
-    background-image: url(../Photo/Background_Full_Bluepng.png);
+.homebodycontact {
+    background-image: url(../medias/Background_Full_Bluepng.png);
     background-size: cover;
-    background-position: center ; 
+    background-position: center;
     height: 100vh;
 }
-
-
