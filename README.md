@@ -1,2 +1,2 @@
-# website
-This is the repo for the website only.
+# CarrEniX - Website
+Website of CarrEniX Team, for Bitume Legends Project
